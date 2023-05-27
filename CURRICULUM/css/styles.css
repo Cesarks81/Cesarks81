@@ -1,0 +1,174 @@
+@keyframes colores {
+    0% {
+        background: #9eb3c2;
+    }
+
+    50% {
+        background: #1c7293;
+    }
+
+    100% {
+        background: #065a82;
+    }
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    width: 55%;
+    margin: auto;
+    background-color: #a9adad9a;
+    font-size: small;
+}
+
+header {
+    margin-top: 20px;
+    background-color: #303B4D;
+}
+
+main {
+    background-color: #ffff;
+}
+
+h1 {
+    padding: 20px;
+}
+
+h3 {
+    color: #0283a0;
+    padding: 10px;
+    border-bottom: solid #0283a0;
+}
+
+p {
+    padding: 10px 20px;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #ffff;
+    background-color: #212933;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+}
+
+li:hover {
+    opacity: .3;
+    cursor: pointer;
+}
+
+div img {
+    width: 100%;
+    border: solid #9ec9d3 4px;
+    border-radius: 100%;
+}
+
+nav img {
+    width: 20px;
+}
+
+article {
+
+    display: inline;
+    padding-bottom: 60px;
+}
+
+.main {
+    display: flex;
+}
+
+.txtmain {
+    color: #ffff;
+    width: 80%;
+}
+
+.imgMain {
+    width: 200px;
+    padding: 20px
+}
+
+.marks {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.marks p,
+.skill {
+    border-radius: 5px;
+    margin: 15px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: small;
+    color: #ffff;
+    background: rgb(117, 117, 117);
+}
+
+.skill {
+    display: flex;
+    width: 90%;
+    padding: 0;
+}
+
+.skill:hover {
+    width: 87%;
+    animation-name: colores;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.skill p {
+    display: inline;
+    width: 15%;
+}
+
+.progress-bar {
+    width: 75%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    height: 25%;
+
+    background: #303B4D;
+}
+
+.styleBar {
+    width: 70%;
+    border-radius: 0 20px 20px 0;
+    background: #212933;
+}
+
+@media screen and (max-width:850px) {
+    body {
+        width: 90%;
+    }
+
+    .main {
+        display: inline-block;
+    }
+
+    .imgMain,
+    .txtmain {
+        margin: auto;
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+    }
+}
