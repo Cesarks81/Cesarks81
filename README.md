@@ -1,6 +1,6 @@
 ### Hola, soy [César Ramos](https://portfolio-drab-xi-93.vercel.app/) 👋
 
-Soy un apasionado del desarrollo **Fullstack** y la **automatización de procesos** con base en León, España. Actualmente estudio **DAM** y me especializo en crear soluciones eficientes que ahorren tiempo y optimicen el trabajo, desde scripts de Python hasta arquitecturas robustas en Node.js.
+Soy un apasionado del desarrollo **Fullstack** y la **automatización de procesos** con base en León, España. Actualmente estudio segundo año de **DAM** y me especializo en crear soluciones eficientes que ahorren tiempo y optimicen el trabajo, desde scripts de Python hasta arquitecturas robustas en Node.js.
 
 **Mis intereses de desarrollo**:
 - Automatización de E-commerce (Prestashop/Shopify)
