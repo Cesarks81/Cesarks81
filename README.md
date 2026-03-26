@@ -56,14 +56,15 @@ Soy un apasionado del desarrollo **Fullstack** y la **automatización de proceso
 
 ---
 
-## 📈 Estadísticas:
+
+## 📈 Estadísticas
 
 <p align="center">
   <a href="https://github.com/Cesarks81" target="_blank">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Cesarks81&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="Estadísticas de César" />
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cesarks81&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="Estadísticas de César" />
   </a>
   <a href="https://github.com/Cesarks81" target="_blank">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarks81&layout=pie&langs_count=6&theme=algolia&hide_border=true" alt="Lenguajes más usados" />
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cesarks81&layout=pie&langs_count=6&theme=algolia&hide_border=true" alt="Lenguajes más usados" />
   </a>
 </p>
 
