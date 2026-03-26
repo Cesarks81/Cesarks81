@@ -57,24 +57,26 @@ Soy un apasionado del desarrollo **Fullstack** y la **automatización de proceso
 ---
 
 
-## 📈 Estadísticas
-
 <p align="center">
   <a href="https://github.com/Cesarks81" target="_blank">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cesarks81&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="Estadísticas de César" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cesarks81&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&locale=es" />
   </a>
   <a href="https://github.com/Cesarks81" target="_blank">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cesarks81&layout=pie&langs_count=6&theme=algolia&hide_border=true" alt="Lenguajes más usados" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cesarks81&layout=compact&langs_count=6&theme=algolia&hide_border=true&locale=es" />
   </a>
 </p>
 
 ---
 
-## 🌐 Conecta conmigo:
+
 
 <p align="center">
-<a href="https://portfolio-drab-xi-93.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=www&logoColor=white" /></a>
+<a href="https://portfolio-drab-xi-93.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=white&color=white" />
+  </a>
 <a href="https://www.linkedin.com/in/césar-ramos-morón-aa3a7a231" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Cesarks81" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Cesarks81" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=white" />
+  </a>
 <a href="mailto:cesarks81@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
