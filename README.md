@@ -1,6 +1,6 @@
 ### Hola, soy [César Ramos](https://portfolio-drab-xi-93.vercel.app/) 👋
 
-Soy un apasionado del desarrollo **Fullstack** y la **automatización de procesos** con base en León, España. Desde que terminé el **FP II de DAM** me especialicé en crear soluciones eficientes que ahorren tiempo y optimicen el trabajo, desde scripts de Python hasta arquitecturas robustas en Node.js.
+Soy un apasionado del desarrollo **Fullstack** y la **automatización de procesos** con base en León, España. Me especializo en crear soluciones eficientes que ahorren tiempo y optimicen el trabajo, desde scripts de Python hasta arquitecturas robustas en Node.js.
 
 **Mis intereses de desarrollo**:
 - Automatización de E-commerce (Prestashop/Shopify)
@@ -12,6 +12,17 @@ Soy un apasionado del desarrollo **Fullstack** y la **automatización de proceso
 - Colaboraciones en proyectos de código abierto.
 - Proyectos de automatización y scraping.
 - Oportunidades en desarrollo Fullstack o Soporte Técnico avanzado.
+
+---
+
+## 📂 Proyectos Principales:
+- **[Wseller V4](https://github.com/Cesarks81/Wseller.git)**: Scraper de Wallapop + filtrado con IA (NEW).
+- **[SCS](https://github.com/Cesarks81/Wseller.git)**: Sistema completo de control de stock (NEW).
+- **[Resdat](https://github.com/Cesarks81/Resdat)**: Web comercial para soluciones digitales B2B.
+- **[Concurrent File Processor](https://github.com/Cesarks81/Concurrent-file-processor)**: Práctica de procesamiento multihilo de alto rendimiento.
+- **[Task Manager API](https://github.com/Cesarks81/Task-manager-REST-API)**: API REST completa con autenticación y base de datos.
+- **[Ikeadocs - MKT23](https://github.com/Cesarks81/Bootcamp-project)**: Landing page interactiva con Tailwind 4.0 y persistencia de datos.
+- **Prestashop Automation**: Automatización de inventarios reales (Próximamente).
 
 ---
 
@@ -56,19 +67,6 @@ Soy un apasionado del desarrollo **Fullstack** y la **automatización de proceso
 - **Prestashop Automation**: Automatización de inventarios reales (Próximamente).
 
 ---
-
-<p align="center">
-  <a href="https://github.com/Cesarks81" target="_blank">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cesarks81&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&locale=es" />
-  </a>
-  <a href="https://github.com/Cesarks81" target="_blank">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cesarks81&layout=compact&langs_count=6&theme=algolia&hide_border=true&locale=es" />
-  </a>
-</p>
-
----
-
-
 
 <p align="center">
 <a href="https://portfolio-drab-xi-93.vercel.app/" target="_blank">
