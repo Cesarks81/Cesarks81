@@ -57,17 +57,6 @@ Soy un apasionado del desarrollo **Fullstack** y la **automatización de proceso
 
 ---
 
-## 📂 Proyectos Principales:
-- **[Wseller V4](https://github.com/Cesarks81/Wseller.git)**: Scraper de Wallapop + filtrado con IA (NEW).
-- **[SCS](https://github.com/Cesarks81/Wseller.git)**: Sistema completo de control de stock (NEW).
-- **[Resdat](https://github.com/Cesarks81/Resdat)**: Web comercial para soluciones digitales B2B.
-- **[Concurrent File Processor](https://github.com/Cesarks81/Concurrent-file-processor)**: Práctica de procesamiento multihilo de alto rendimiento.
-- **[Task Manager API](https://github.com/Cesarks81/Task-manager-REST-API)**: API REST completa con autenticación y base de datos.
-- **[Ikeadocs - MKT23](https://github.com/Cesarks81/Bootcamp-project)**: Landing page interactiva con Tailwind 4.0 y persistencia de datos.
-- **Prestashop Automation**: Automatización de inventarios reales (Próximamente).
-
----
-
 <p align="center">
 <a href="https://portfolio-drab-xi-93.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=white&color=white" />
