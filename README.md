@@ -18,6 +18,7 @@ I'm a passionate **Fullstack** developer and **process automation** enthusiast b
 ## 📂 Main Projects:
 - **[Wseller V4](https://github.com/Cesarks81/Wseller.git)**: Wallapop scraper + AI-powered filtering (NEW).
 - **[SCS](https://github.com/Cesarks81/SCS.git)**: Full-featured stock control system (NEW).
+- **[ChessAgent](https://github.com/Cesarks81/chess-agent.git)**: Personal chess analytics dashboard connected to the Lichess API (NEW).
 - **[Resdat](https://github.com/Cesarks81/Resdat)**: Commercial website for B2B digital solutions.
 - **[Concurrent File Processor](https://github.com/Cesarks81/Concurrent-file-processor)**: High-performance multithreaded file processing exercise.
 - **[Task Manager API](https://github.com/Cesarks81/Task-manager-REST-API)**: Full REST API with authentication and database integration.
