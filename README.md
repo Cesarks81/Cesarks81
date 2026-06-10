@@ -1,55 +1,55 @@
-### Hola, soy [César Ramos](https://portfolio-drab-xi-93.vercel.app/) 👋
+### Hi, I'm [César Ramos](https://portfolio-drab-xi-93.vercel.app/) 👋
 
-Soy un apasionado del desarrollo **Fullstack** y la **automatización de procesos** con base en León, España. Me especializo en crear soluciones eficientes que ahorren tiempo y optimicen el trabajo, desde scripts de Python hasta arquitecturas robustas en Node.js.
+I'm a passionate **Fullstack** developer and **process automation** enthusiast based in León, Spain. I specialize in building efficient solutions that save time and streamline workflows — from Python scripts to robust Node.js architectures.
 
-**Mis intereses de desarrollo**:
-- Automatización de E-commerce (Prestashop/Shopify)
-- Web Scraping inteligente
-- Arquitectura de APIs REST
-- Optimización de flujos de trabajo IT
+**My development interests**:
+- E-commerce Automation (Prestashop/Shopify)
+- Intelligent Web Scraping
+- REST API Architecture
+- IT Workflow Optimization
 
-**Estoy abierto a**:
-- Colaboraciones en proyectos de código abierto.
-- Proyectos de automatización y scraping.
-- Oportunidades en desarrollo Fullstack o Soporte Técnico avanzado.
+**I'm open to**:
+- Collaborations on open-source projects.
+- Automation and scraping projects.
+- Fullstack development or advanced Technical Support opportunities.
 
 ---
 
-## 📂 Proyectos Principales:
-- **[Wseller V4](https://github.com/Cesarks81/Wseller.git)**: Scraper de Wallapop + filtrado con IA (NEW).
-- **[SCS](https://github.com/Cesarks81/SCS.git)**: Sistema completo de control de stock (NEW).
-- **[Resdat](https://github.com/Cesarks81/Resdat)**: Web comercial para soluciones digitales B2B.
-- **[Concurrent File Processor](https://github.com/Cesarks81/Concurrent-file-processor)**: Práctica de procesamiento multihilo de alto rendimiento.
-- **[Task Manager API](https://github.com/Cesarks81/Task-manager-REST-API)**: API REST completa con autenticación y base de datos.
-- **[Ikeadocs - MKT23](https://github.com/Cesarks81/Bootcamp-project)**: Landing page interactiva con Tailwind 4.0 y persistencia de datos.
-- **Prestashop Automation**: Automatización de inventarios reales (Próximamente).
+## 📂 Main Projects:
+- **[Wseller V4](https://github.com/Cesarks81/Wseller.git)**: Wallapop scraper + AI-powered filtering (NEW).
+- **[SCS](https://github.com/Cesarks81/SCS.git)**: Full-featured stock control system (NEW).
+- **[Resdat](https://github.com/Cesarks81/Resdat)**: Commercial website for B2B digital solutions.
+- **[Concurrent File Processor](https://github.com/Cesarks81/Concurrent-file-processor)**: High-performance multithreaded file processing exercise.
+- **[Task Manager API](https://github.com/Cesarks81/Task-manager-REST-API)**: Full REST API with authentication and database integration.
+- **[Ikeadocs - MKT23](https://github.com/Cesarks81/Bootcamp-project)**: Interactive landing page built with Tailwind 4.0 and data persistence.
+- **Prestashop Automation**: Real inventory automation (Coming soon).
 
 ---
 
 ## 🛠️ Skills
 
-####  Backend:
+#### Backend:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frontend y frameworks:
+#### Frontend & Frameworks:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Automatización, IA y Datos:
+#### Automation, AI & Data:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4EAA25?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-#### IDEs y Herramientas principales:
+#### IDEs & Main Tools:
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
